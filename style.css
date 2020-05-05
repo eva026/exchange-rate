@@ -33,6 +33,7 @@ p {
   background: var(--primary-color);
   padding: 5px 12px;
   border-radius: 5px;
+  border: 0;
 }
 
 .currency {
